@@ -1,0 +1,13 @@
+SHEET MACHINE INSTALLER
+
+Double-click “Install Sheet Machine”.
+
+The installer will:
+
+• Put Sheet Machine in your personal Applications folder.
+• Start it automatically when you log in.
+• Start watching Downloads immediately.
+
+After installation, download a Squarespace orders CSV. Sheet Machine will ask which weekday the sheet is for, then save the cleaned CSV on the Desktop.
+
+The result is named for the selected day, such as Thursday.csv. It shows the total quantity at the top, followed by Name, Quantity, Student Number, and Variant. Students are sorted alphabetically by first name. The selected weekday and all Order Every Day items are included.
